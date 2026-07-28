@@ -3,7 +3,7 @@
 I'm currently building a user-space concurrency runtime library for C, and [notestamp.com](https://notestamp.com),
 a web app for taking notes synced to media.
 
-🔗 [blog](#) · [fortyoneplustwo.bearblog.dev](https://fortyoneplustwo.bearblog.dev/blog/)
+🔗 [blog](https://fortyoneplustwo.bearblog.dev/blog/)
 
 <!--
 **fortyoneplustwo/fortyoneplustwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
