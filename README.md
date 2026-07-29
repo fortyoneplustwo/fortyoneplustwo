@@ -2,8 +2,8 @@
 
 - Currently building [croutine](https://github.com/fortyoneplustwo/croutine), a user-space concurrency runtime library for C
 - Creator of [notestamp](https://notestamp.com), a web app for taking notes synced to media
-- Contributed to [Owncast](https://github.com/owncast/owncast/pulls?q=is%3Apr+author%3Afortyoneplustwo+is%3Aclosed), an open-source live-streaming and chat server
-- Contributed to [Joplin](https://github.com/laurent22/joplin/pulls?q=is%3Apr+author%3Afortyoneplustwo+is%3Aclosed), an open-source note-taking app
+- Contributions to [Owncast](https://github.com/owncast/owncast/pulls?q=is%3Apr+author%3Afortyoneplustwo+is%3Aclosed), an open-source live-streaming and chat server
+- Contributions to [Joplin](https://github.com/laurent22/joplin/pulls?q=is%3Apr+author%3Afortyoneplustwo+is%3Aclosed), an open-source note-taking app
 
 🔗 [blog](https://fortyoneplustwo.bearblog.dev/blog/)
 
